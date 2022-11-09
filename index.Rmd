@@ -1,0 +1,23 @@
+---
+title: "Shifting Frontiers XV"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+
+
+
+*Welcome to the website for Shifting Frontiers XV*
+
+#### September 21-23, 2023
+#### University of California Santa Barbara and the Old Mission Santa Barbara
+
+# Romans in New Worlds
+
+Late ancient Romans found themselves in an interconnected world, whether in an Italy traversed by steppe-land Huns, in exile among Iranians, or traveling the commercial highways of central Asia. Late ancient Romans and their things also surface in subsequent emerging global interconnections: Merchant communities in Kerala circulated Roman coins, for example, while Ethiopian bronzes changed hands in Palestine. And long after Charlemagne the Frank was crowned “emperor of the Romans,” friars Christianizing the US Southwest traveled with well-worn books by Augustine and Jerome. For the XVth conference on Shifting Frontiers in Late Antiquity, we invite you to propose papers and panels considering late Romans in these“interconnected, uncentered” worlds.The conference will be held on the campus of the University of California at Santa Barbara and at the Old Mission Santa Barbara. In addition to the traditional plenary panels, we will provide fora and fodder for discussing the possibilities and challenges of “global late antiquity” as a paradigm, from roundtable discussions to a tour of the Santa Bárbara Mission Archive-Library, the repository for its sister institutions in the southwest.
+
+*In order to be considered for participation in this conference, please visit our website, where you will find directions and the required application form (with required 500 word abstract). The deadline for submission is March 21, 2023*
+
+
+
