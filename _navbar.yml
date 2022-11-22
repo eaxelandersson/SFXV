@@ -8,8 +8,8 @@ left:
     href: ./contact.html
   - text: "Program"
     href: ./program.html
-  - text: "Registration"
-    href: ./registration.html
+  - text: "Steering Committee"
+    href: ./steeringcommittee.html
 right:
   - icon: fa-github fa-lg
     href: https://github.com/githubusername/mywebsite
